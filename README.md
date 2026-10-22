@@ -33,19 +33,23 @@ public class Profile : MonoBehaviour
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="center">
-      <img src="Assets/VortexVFX.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;" alt="Vortex VFX Preview">
+      <img src="Assets/Showcase_SignalNo5.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;" alt="Vortex VFX Preview">
       <p align="center" style="margin-top: 10px;">
         <a href="https://altnon.itch.io/signal-no-5"><img src="https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"></a>
       </p>
     </td>
 
   <td width="50%" valign="middle" style="padding-left: 15px;">  
-    <p><b>Contribution 1</b><br>
-      <sub style="color: #58a6ff;">TimeStamp</sub></p>
-    <p><b>Contribution 2</b><br>
-      <sub style="color: #58a6ff;">TimeStamp</sub></p>
-   <p><b>Contribution 3</b><br>
-      <sub style="color: #58a6ff;">TimeStamp</sub></p>
+    <p><b>Toon Shader</b><br>
+      <sub style="color: #58a6ff;">Created a Cel Shader for the characters to add a more cartoon effect</sub></p>
+    <p><b>Rising Flood Logic with Shader</b><br>
+      <sub style="color: #58a6ff;">Light objects can float while heavy objects sink visibility of objects depend on position in the water</sub></p>
+   <p><b>Couch Coop Logic</b><br>
+      <sub style="color: #58a6ff;">Characters are moved with two plugged-in controllers using tank controls</sub></p>
+    <p><b>Electrical VFX</b><br>
+      <sub style="color: #58a6ff;">Creating a electric effect that activates in intervals that would damage the player</sub></p>
+    <p><b>Wave VFX</b><br>
+      <sub style="color: #58a6ff;">Created a wave effect that quickly comes in from the window asset with water droplets</sub></p>
   </td>
   </tr>
 </table>
