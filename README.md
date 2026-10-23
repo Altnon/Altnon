@@ -41,16 +41,27 @@ public class Profile : MonoBehaviour
     </td>
 
   <td width="50%" valign="middle" style="padding-left: 15px;">  
-    <p><b>Toon Shader</b><br>
-      <sub>Created a Cel Shader for the characters to add a more cartoon effect</sub></p>
-    <p><b>Rising Flood Logic with Shader</b><br>
-      <sub>Light objects can float while heavy objects sink visibility of objects depend on position in the water</sub></p>
-   <p><b>Couch Coop Logic</b><br>
-      <sub>Characters are moved with two plugged-in controllers using tank controls</sub></p>
-    <p><b>Electrical VFX</b><br>
-      <sub>Creating a electric effect that activates in intervals that would damage the player</sub></p>
-    <p><b>Wave VFX</b><br>
-      <sub>Created a wave effect that quickly comes in from the window asset with water droplets</sub></p>
+    <ul style="padding-left: 20px margin:0;">
+      <li style= "margin-bottom:12px">
+        <b>Toon Shader</b><br>
+        <sub>Created a Cel Shader for the characters to add a more cartoon effect</sub>
+      </li>
+      <li style= "margin-bottom:12px">
+        <b>Rising Flood Logic with Shader</b><br>
+        <sub>Light objects can float while heavy objects sink visibility of objectsdepend on position in the water</sub>
+      </li>
+      <li style= "margin-bottom:12px">   
+        <b>Couch Coop Logic</b>
+        <sub>Characters are moved with two plugged-in controllers using tank controls<sub>
+      </li>
+      <li style= "margin-bottom:12px">  
+        <b>Electrical VFX</b>
+        <sub>Creating a electric effect that activates in intervals that would damagethe player</sub>
+      </li>
+      <li style= "margin-bottom:12px">
+        <b>Wave VFX</b><br>
+        <sub>Created a wave effect that quickly comes in from the window asset with water droplets</sub>
+      </li>
   </td>
   </tr>
 </table>
@@ -58,44 +69,29 @@ public class Profile : MonoBehaviour
 ## From All That I Was
 <table width="100%">
   <tr>
-    <td width="50%" valign="middle" align="center">
-      <img src="Assets/Showcase_FromAllThatIWas.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;" alt="Vortex VFX Preview">
+    <td width="50%" align="center" style="vertical-align: middle;">
+      <img src="Assets/Showcase_FromAllThatIWas.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;">
       <p align="center" style="margin-top: 10px;">
         <a href="https://sharkbyte-studios.itch.io/from-all-that-i-was"><img src="https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"></a>
       </p>
     </td>
-
-  <td width="50%" valign="middle" style="padding-left: 15px;">  
-    <p><b>Glow VFX</b><br>
-      <sub>Created glow effect to make the mask more apparent and ethereal compared to the environment</sub></p>
-    <p><b>Hallway Exposition Logic</b><br>
-      <sub>Adjusted the mood of the hallway after obtaining cards</sub></p>
-   <p><b>Card Selection Logic</b><br>
-      <sub>Card selection works by pressing the left mouse button moves the card to a designated slot filling it from right to left</sub></p>
-  </td>
+    <td width="50%" style="vertical-align: middle; padding-left: 15px;">
+      <ul style="padding-left: 20px margin:0;">
+        <li style= "margin-bottom:12px">
+          <b>Glow VFX</b><br>
+          <sub>Created glow effect to make the mask more apparent and ethereal compared to the environment</sub>
+        </li>
+         <li style= "margin-bottom:12px">
+          <b>Hallway Exposition Logic</b><br>
+          <sub>Adjusted the mood of the hallway after obtaining cards</sub>
+        </li>
+        <li style= "margin-bottom:12px">
+          <b>Card Selection Logic</b><br>
+          <sub>Card selection works by pressing the left mouse button moves the card to a designated slot filling it from right to left</sub>
+        </li>
+    </td>
   </tr>
 </table>
-
-<!-- ## Biscuit Gremlins
-<table width="100%">
-  <tr>
-    <td width="50%" valign="middle" align="center">
-      <img src="Assets/VortexVFX.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;" alt="Vortex VFX Preview">
-      <p align="center" style="margin-top: 10px;">
-        <a href="https://altnon.itch.io/signal-no-5"><img src="https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"></a>
-      </p>
-    </td>
-
-  <td width="50%" valign="middle" style="padding-left: 15px;">  
-    <p><b>Contribution 1</b><br>
-      <sub style="color: #58a6ff;">TimeStamp</sub></p>
-    <p><b>Contribution 2</b><br>
-      <sub style="color: #58a6ff;">TimeStamp</sub></p>
-   <p><b>Contribution 3</b><br>
-      <sub style="color: #58a6ff;">TimeStamp</sub></p>
-  </td>
-  </tr>
-</table> -->
 
 <h2 align="center">Other Works</h2>
 
