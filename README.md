@@ -62,6 +62,9 @@ public class Profile : MonoBehaviour
         <b>Wave VFX</b><br>
         <sub>Created a wave effect that quickly comes in from the window asset with water droplets</sub>
       </li>
+      <li style= "margin-bottom:12px">
+        <b>Debugging and Optimization</b><br>
+      </li> 
   </td>
   </tr>
 </table>
@@ -88,6 +91,13 @@ public class Profile : MonoBehaviour
         <li style= "margin-bottom:12px">
           <b>Card Selection Logic</b><br>
           <sub>Card selection works by pressing the left mouse button moves the card to a designated slot filling it from right to left</sub>
+        </li>
+        <li style= "margin-bottom:12px">
+          <b>Card and Ability Logic</b><br>
+          <sub>Converted CSV data sheets to In-Game Data</sub>
+        </li> 
+        <li style= "margin-bottom:12px">
+          <b>Debugging and Optimization</b><br>
         </li>
     </td>
   </tr>
