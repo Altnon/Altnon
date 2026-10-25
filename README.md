@@ -34,7 +34,7 @@ public class Profile : MonoBehaviour
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="center">
-      <img src="Assets/Showcase_SignalNo5.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;" alt="Vortex VFX Preview">
+      <img src="https://github.com/Altnon/Altnon/blob/main/Assets/Showcase_SignalNo5.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;" alt="Vortex VFX Preview">
       <p align="center" style="margin-top: 10px;">
         <a href="https://altnon.itch.io/signal-no-5"><img src="https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"></a>
       </p>
@@ -70,7 +70,7 @@ public class Profile : MonoBehaviour
 <table width="100%">
   <tr>
     <td width="50%" align="center" style="vertical-align: middle;">
-      <img src="Assets/Showcase_FromAllThatIWas.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;">
+      <img src="https://github.com/Altnon/Altnon/blob/main/Assets/Showcase_FromAllThatIWas.gif" width="100%" style="border-radius: 8px; aspect-ratio: 16/9; object-fit: cover;">
       <p align="center" style="margin-top: 10px;">
         <a href="https://sharkbyte-studios.itch.io/from-all-that-i-was"><img src="https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"></a>
       </p>
