@@ -26,11 +26,11 @@ public class Profile : MonoBehaviour
     [SerializeField] private GameEngine currentEngine = GameEngine.Unity;
 }
 ```
----
 <!-- PROGRAMMING BREAKDOWN HERE -->
----
+<h2 align="center">Main Projects</h2>
 
-## Signal No. 5
+
+## Signal No. 5 - Project Manager, Programmer
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="center">
@@ -51,11 +51,11 @@ public class Profile : MonoBehaviour
         <sub>Light objects can float while heavy objects sink visibility of objectsdepend on position in the water</sub>
       </li>
       <li style= "margin-bottom:12px">   
-        <b>Couch Coop Logic</b>
-        <sub>Characters are moved with two plugged-in controllers using tank controls<sub>
+        <b>Couch Coop Logic</b><br>
+        <sub>Characters are moved with two plugged-in controllers using tank controls</sub>
       </li>
       <li style= "margin-bottom:12px">  
-        <b>Electrical VFX</b>
+        <b>Electrical VFX</b><br>
         <sub>Creating a electric effect that activates in intervals that would damagethe player</sub>
       </li>
       <li style= "margin-bottom:12px">
@@ -66,7 +66,7 @@ public class Profile : MonoBehaviour
   </tr>
 </table>
 
-## From All That I Was
+## From All That I Was - Project Manager, Programmer
 <table width="100%">
   <tr>
     <td width="50%" align="center" style="vertical-align: middle;">
@@ -99,7 +99,7 @@ public class Profile : MonoBehaviour
   <tr>
     <td align="center" width="33%" height="20%">
       <h3>Explosion VFX</h3>
-      <a href="Assets/ExplosionVFX.gif"><img src="Assets/ExplosionVFX.gif" width="100%" alt="Explosion"></a>
+      <a href="Assets/ExplosionVFX.gif"><img src="https://github.com/Altnon/Altnon/blob/main/Assets/ExplosionVFX.gif" width="100%" alt="Explosion"></a>
     </td>
     <td align="center" width="33%" height="20%">
       <h3>Biscuit Gremlins</h3>
@@ -107,7 +107,7 @@ public class Profile : MonoBehaviour
     </td>
     <td align="center" width="33%" height="20%">
       <h3>Vortex VFX</h3>
-      <a href="Assets/VortexVFX.gif"><img src="Assets/VortexVFX.gif" width="100%" alt="Vortex"></a>
+      <a href="Assets/VortexVFX.gif"><img src="https://github.com/Altnon/Altnon/blob/main/Assets/VortexVFX.gif" width="100%" alt="Vortex"></a>
     </td>
   </tr>
 </table>
